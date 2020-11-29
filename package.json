@@ -1,0 +1,23 @@
+{
+  "name": "chrisui",
+  "version": "0.0.1",
+  "description": "design my UI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liucrystal24/chrisUI.git"
+  },
+  "keywords": [
+    "vue",
+    "ui"
+  ],
+  "author": "ChrisLiu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liucrystal24/chrisUI/issues"
+  },
+  "homepage": "https://github.com/liucrystal24/chrisUI#readme"
+}
